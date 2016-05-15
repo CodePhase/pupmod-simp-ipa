@@ -1,0 +1,14 @@
+{
+  "name": "ipa",
+  "version": "0.1.0",
+  "author": "SIMP",
+  "summary": "Deploy FreeIPA",
+  "license": "GPL 3.0",
+  "source": "none",
+  "project_page": "none",
+  "issues_url": "none",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
