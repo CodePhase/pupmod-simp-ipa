@@ -4,9 +4,6 @@ class ipa::server::services {
   service {'dirsrv':
     name        => 'dirsrv'
   }
-  service {'certmonger':
-    name        => 'certmonger'
-  }
   service {'ipa_memcached':
     name        => 'ipa_memcached'
   }
